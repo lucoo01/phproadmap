@@ -1,4 +1,8 @@
-# PHP学习路线
+# PHP学习路线图
+
+* [飞书文档查看](https://gahviotzzv.feishu.cn/mindnotes/FJQ2bssKlmaGKlneEEJcMZb2nwc#outline)
+* [思维导图](https://gahviotzzv.feishu.cn/mindnotes/FJQ2bssKlmaGKlneEEJcMZb2nwc#mindmap)
+![image](https://github.com/lucoo01/phproadmap/assets/10543112/8c439cae-bcd9-4671-91c5-39c238a9b771)
 
 ## 符号表
 ```
